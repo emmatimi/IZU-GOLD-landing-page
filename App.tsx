@@ -1,4 +1,3 @@
-
 import React, { useEffect, useState } from 'react';
 import Header from './components/Header';
 import Hero from './components/Hero';
@@ -83,7 +82,7 @@ const App: React.FC = () => {
 
       {/* Floating WhatsApp Button */}
       <a 
-        href="https://wa.me/2348001234567" 
+        href="https://wa.me/2348145531842" 
         target="_blank" 
         rel="noopener noreferrer"
         aria-label="Chat with us on WhatsApp"
