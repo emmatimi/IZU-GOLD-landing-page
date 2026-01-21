@@ -202,11 +202,11 @@ const Header: React.FC = () => {
                 <div className="space-y-3">
                   <div className="flex items-center space-x-3 text-slate-600">
                     <Phone className="w-4 h-4 text-amber-500" />
-                    <span className="text-sm">+234 800 123 4567</span>
+                    <span className="text-sm">+234 (0)9051572088</span>
                   </div>
                   <div className="flex items-center space-x-3 text-slate-600">
                     <Mail className="w-4 h-4 text-amber-500" />
-                    <span className="text-sm">sales@izu-gold.com</span>
+                    <span className="text-sm">nnadiizuchukwu6@gmail.com</span>
                   </div>
                   <div className="flex items-start space-x-3 text-slate-600">
                     <MapPin className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" />
