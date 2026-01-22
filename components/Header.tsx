@@ -90,7 +90,7 @@ const Header: React.FC = () => {
             <span className={`text-2xl font-montserrat font-extrabold tracking-tighter transition-colors duration-300 ${
               isScrolled ? 'text-slate-900' : 'text-white'
             }`}>
-              IZU<span className="text-amber-500 transition-transform group-hover:scale-110 inline-block">-GOLD</span>
+              IZU<span className="text-amber-500 transition-transform group-hover:scale-110 inline-block">-GOLDEN</span>
             </span>
             <span className="text-[8px] font-bold uppercase tracking-[0.4em] text-amber-500 leading-none -mt-1 ml-1 opacity-90 transition-opacity group-hover:opacity-100">
               Sweet Home
