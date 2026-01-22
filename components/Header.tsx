@@ -161,7 +161,7 @@ const Header: React.FC = () => {
           mobileMenuOpen ? 'translate-x-0' : 'translate-x-full'
         }`}>
           <div className="p-6 flex justify-between items-center border-b border-slate-100">
-            <span className="text-xl font-montserrat font-extrabold text-slate-900">IZU<span className="text-amber-500">-GOLD</span></span>
+            <span className="text-xl font-montserrat font-extrabold text-slate-900">IZU<span className="text-amber-500">-GOLDEN</span></span>
             <button 
               onClick={() => setMobileMenuOpen(false)} 
               className="text-slate-400 hover:text-slate-900 p-2 transition-colors"
