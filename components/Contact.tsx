@@ -8,7 +8,7 @@ const BUSINESS_CONFIG = {
    lat: 9.0494, 
   lng: 7.5936, 
   whatsapp: "2348145531842",
-  phones: ["+234 (0)9051572088"],
+  phones: ["+2349051572088"],
   email: "nnadiizuchukwu6@gmail.com",
   hours: "Mon - Sat: 8:00 AM - 6:00 PM",
   googleFormUrl: 'https://docs.google.com/forms/d/e/1FAIpQLSdKSu9LqLrLFbLGuuACk-uDClYpEZnv7TwEnRo_7-s1y5Lzig/formResponse?usp=pp_url'
