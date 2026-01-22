@@ -35,7 +35,7 @@ const Hero: React.FC = () => {
           
           {/* Subtext Reveal */}
           <p className="text-slate-300 text-lg md:text-xl mb-10 max-w-2xl leading-relaxed opacity-0 animate-[slide-in-left_1s_cubic-bezier(0.22,1,0.36,1)_forwards_0.4s]">
-            From luxury Italian tiles to high-performance pumping machines,and other plumbing materuials, IZU-GOLD provides the essential materials to transform your blueprints into masterpieces.
+            From luxury Italian tiles to high-performance pumping machines,and other plumbing materials, IZU-GOLDEN provides the essential materials to transform your blueprints into masterpieces.
           </p>
           
           {/* CTA Reveal */}
