@@ -10,7 +10,6 @@ interface FeaturedProductsProps {
 const FeaturedProducts: React.FC<FeaturedProductsProps> = ({ selectedCategory, onClearFilter }) => {
   const [isExpanded, setIsExpanded] = useState(false);
 
-  // Added 'tag' property to each product object to fix the TS error and provide badges for the UI
   const allProducts = useMemo(() => [
     {
       name: "Bath-Shower Mixer with Cradle",
