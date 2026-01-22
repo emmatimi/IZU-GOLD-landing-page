@@ -33,7 +33,7 @@ const WhyUs: React.FC = () => {
           <div className="lg:w-1/2">
             <h2 className="text-sm font-bold text-amber-600 uppercase tracking-widest mb-3">Professional Advantage</h2>
             <h3 className="text-4xl md:text-5xl font-montserrat font-bold text-slate-900 mb-8 leading-tight">
-              Why Professionals Trust <span className="text-amber-500">IZU-GOLD</span>
+              Why Professionals Trust <span className="text-amber-500">IZU-GOLDEN</span>
             </h3>
             
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
