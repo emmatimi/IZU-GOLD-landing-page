@@ -31,7 +31,7 @@ const Footer: React.FC = () => {
           {/* Brand Info */}
         <div className="space-y-6">
             <div className="flex flex-col cursor-pointer" onClick={() => window.scrollTo({top: 0, behavior: 'smooth'})}>
-              <span className="text-3xl font-montserrat font-extrabold tracking-tighter leading-none">IZU<span className="text-amber-500">-GOLD</span></span>
+              <span className="text-3xl font-montserrat font-extrabold tracking-tighter leading-none">IZU<span className="text-amber-500">-GOLDEN</span></span>
               <span className="text-[10px] font-bold uppercase tracking-[0.4em] text-amber-500 mt-2 ml-1 opacity-90">Sweet Home</span>
             </div>
             <p className="text-slate-400 leading-relaxed text-sm">
@@ -111,7 +111,7 @@ const Footer: React.FC = () => {
               </div>
               <div className="flex items-center space-x-3 text-slate-300 text-sm">
                 <div className="bg-white/5 p-2 rounded-lg"><Phone className="w-4 h-4 text-amber-500" /></div>
-                <span>+234 (0)9051572088</span>
+                <span>+23409051572088</span>
               </div>
               <div className="flex items-center space-x-3 text-slate-300 text-sm">
                 <div className="bg-white/5 p-2 rounded-lg"><Mail className="w-4 h-4 text-amber-500" /></div>
@@ -122,7 +122,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="pt-8 border-t border-slate-900 flex flex-col md:flex-row justify-between items-center text-slate-500 text-xs gap-4">
-          <p>© {new Date().getFullYear()} IZU-GOLD Building Materials. Crafted for Excellence.</p>
+          <p>© {new Date().getFullYear()} IZU-GOLDEN Building Materials. Crafted for Excellence.</p>
           <div className="flex space-x-6">
             <a href="#" className="hover:text-amber-500 transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-amber-500 transition-colors">Terms of Service</a>
